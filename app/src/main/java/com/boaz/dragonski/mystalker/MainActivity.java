@@ -15,8 +15,6 @@ import android.widget.TextView;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-import static android.content.ContentValues.TAG;
-
 public class MainActivity extends AppCompatActivity {
 
     private final static int OUTGOING_CALLS_CODE = 10;
